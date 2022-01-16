@@ -4,7 +4,7 @@ Solutions to module assignments for the "Single Page Web Applications with Angul
 
 ##Course Outline
 
-- Module 1 | Introduction to AngularJS
+- Module 1 | [Introduction to AngularJS](https://siddharthjain2199.github.io/Single-Page-Web-Applications-with-AngularJS/Module1/)
 - Module 2 | Filters, Digest Cycle, Controller Inheritance, and Custom Services
 - Module 3 | Promises, Ajax, and Custom Directives
 - Module 4 | Components, Events, Modules, and Routing
